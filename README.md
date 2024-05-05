@@ -1,6 +1,6 @@
 ![logo](https://github.com/gulltaqdees/gulltaqdees/blob/main/logo%20(2).png)
 <h1 align="center">Hi 👋, I'm Taqdees Gull</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
